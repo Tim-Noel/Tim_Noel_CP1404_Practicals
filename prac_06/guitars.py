@@ -5,7 +5,6 @@ Guitar collection records
 
 
 def main():
-    """Guitar program, using Guitar class."""
     guitars = []
 
     print("My guitars!")
